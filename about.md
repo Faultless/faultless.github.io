@@ -1,15 +1,7 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Hi! I'm Serge, a Web Developer from Lebanon. I blog about whatever interesting things are happening in my life, hope you enjoy.
