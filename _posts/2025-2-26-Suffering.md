@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pilot
+title: Suffering
 ---
 
 ![Art]({{ site.baseurl }}/images/suffering_1.jpeg)
