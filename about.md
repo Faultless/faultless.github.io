@@ -4,4 +4,4 @@ title: About Me
 permalink: /about/
 ---
 
-Hi! I'm Serge, a Web Developer from Lebanon. I blog about whatever interesting things are happening in my life, hope you enjoy.
+Hey, this thing is simply an unprofessional, full of mistakes, random chain of Mini-Posts pertaining to certain topics. The goal is to hopefully cut my teeth on this whole writing thing, and perhaps even bring some value to readers one day.
