@@ -14,6 +14,15 @@ $gray: #666;
 $lightGray: #eee;
 $white: #fff;
 
+@media (prefers-color-scheme: dark) {
+  $black: #fff;
+  $darkerGray: #ddd;
+  $darkGray: #aaa;
+  $gray: #888;
+  $lightGray: #333;
+  $white: #000;
+}
+
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
