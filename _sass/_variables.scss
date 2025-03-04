@@ -7,20 +7,42 @@
 $blue: #4183C4;
 
 // Grays
+html, html[data-theme="light"] { 
 $black: #000;
 $darkerGray: #222;
 $darkGray: #333;
 $gray: #666;
 $lightGray: #eee;
 $white: #fff;
+}
 
-@media (prefers-color-scheme: dark) {
+html[data-theme="dark"] {
   $black: #fff;
   $darkerGray: #ddd;
   $darkGray: #aaa;
   $gray: #888;
   $lightGray: #333;
   $white: #000;
+}
+
+@media (prefers-color-scheme: dark) {
+  html, html[data-theme="light"] { 
+    $black: #000;
+    $darkerGray: #222;
+    $darkGray: #333;
+    $gray: #666;
+    $lightGray: #eee;
+    $white: #fff;
+  }
+    
+  html[data-theme="dark"] {
+    $black: #fff;
+    $darkerGray: #ddd;
+    $darkGray: #aaa;
+    $gray: #888;
+    $lightGray: #333;
+    $white: #000;
+  }
 }
 
 // Font stacks
