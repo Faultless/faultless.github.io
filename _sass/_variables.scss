@@ -7,16 +7,16 @@
 $blue: #4183C4;
 
 // Grays
-html, html[data-theme="light"] { 
+// html, html[data-theme="light"] { 
 $black: #000;
 $darkerGray: #222;
 $darkGray: #333;
 $gray: #666;
 $lightGray: #eee;
 $white: #fff;
-}
+// }
 
-html[data-theme="dark"] {
+/* html[data-theme="dark"] {
   $black: #fff;
   $darkerGray: #ddd;
   $darkGray: #aaa;
@@ -43,7 +43,7 @@ html[data-theme="dark"] {
     $lightGray: #333;
     $white: #000;
   }
-}
+} */
 
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
