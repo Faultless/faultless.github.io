@@ -3,7 +3,7 @@ layout: post
 title: Who You Are
 ---
 
-![Art]({{ site.baseurl }}/images/who_1.jpg)
+![Art]({{ site.baseurl }}/images/who_1.png)
 
 ## You are Not
 
