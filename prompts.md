@@ -31,4 +31,6 @@ The atomic clock struck midnight as Tyren walked past the dim lit cemetary of fa
 
 None of it made sense, was he and his men being punished for accomplishing their mission on this planet? Was it their fault if it ended up being a less-than-desireable vassal to the empirium of mankind? As he pondered these recurring questions in an quasi-systematic way, the watchtower came into view, as he rounded the town tavern.. It was completely dark, only visible thanks to the 2 moons casting their reflections on either side. Wasn't Bren supposed to light and tend to the system of torches at all times? As he was lost in thought analysing every possible scenario, a hollow, but loud thud resonated out of the tower. Tyren took out his chainsword and began to run.
 
+Paradoxically, you could see more of the tower and its surroundings under the moonlight than usual, and Tyren could have sworn that the structure looked more imposing than usual. It was almost as if an Aura was emanating from it at a constant interval, straight out of a children's tale. With the entrance in sight, Tyren slowed his pace down to a halt, taking each step as stealthily as his Astartes armour allowed for.
+
 ---
