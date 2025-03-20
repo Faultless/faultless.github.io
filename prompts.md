@@ -33,4 +33,8 @@ None of it made sense, was he and his men being punished for accomplishing their
 
 Paradoxically, you could see more of the tower and its surroundings under the moonlight than usual, and Tyren could have sworn that the structure looked more imposing than usual. It was almost as if an Aura was emanating from it at a constant interval, straight out of a children's tale. With the entrance in sight, Tyren slowed his pace down to a halt, taking each step as stealthily as his Astartes armour allowed for.
 
+As the adrenaline was being pumped harder and harder thanks to his 2 hearts, Tyren tried his best to regulate his breathing while forcing his way through the narrow entryway to the tower. Looking around, the old wooden planks making up the walls, and the stairway to the right looked the same as ever; and it wasn't until he turned his gaze upwards towards the spiraling staircase that the horrorshow began. Mouth agape, dangling form the railing like a puppet, Pyron, one of his most capable and trusted legionaires. Without giving himself the time to process what he just saw, Tyren vaulted the winding staircase 4 at as time, determined to get a handle on the situation and find what freak of nature had bested his men.
+
+At the top of the tower, with the moonlight shining through glass panes, lied another of his comerades.. "Falton.. my brother.. how is this even possible?" He cried in disbelief. It was clear from a glance around the open empty deck that whomever had done all that was long gone by now. 
+
 ---
