@@ -51,4 +51,8 @@ Breathing away his adrenaline rush, the mercenary put away his combat knife, fre
 
 Tyren and his men were accustomed to combat in low visibility situations, and narrow space combat was also quite common. However, this cave was proving to be a challenge because of their gigantic stature. More than once, at a few junctions, they had to crawl their way to the following tunnel, which left them in a very vulnerable position. All they could pray for was ironically not to run into their prey, lest they become the hunted themselves.
 
+Deep into a large cavity, they were finally able to collect themselves and use what little luminosity their rifle leds afforded them. It was quite the marvel of nature: a giant chamber chiseled through thousands of years by water. to their left, a lake span all the way to the invisible far back of the room. Thysus, Tyren's new right-hand man, tried throwing a rock into it, and track how long it would take to reach the bottom. By the looks of it, that lake was even deeper than their lamps could reach. The rest of the cavity was bog standard cave structure, from stalactites and stalagmites to the usually rough rocky walls, the whole place did not look suspicious outside of its unusual size.
+
+..Tyren was so busy eating the place up with his eyes that he had not realised they were only 3: Tyren, Thytus, and a rookie by the name of Ricar. "where the hell is Callun" he exclaimed with a hint of worry to his comrades.
+
 ---
