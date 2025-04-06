@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Novel
-permalink: /novel/
+title: Sci-Fi
+permalink: /sci-fi/
 ---
 
 > A 40k/fantasy/sci-fi web-novel draft.
